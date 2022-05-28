@@ -4,10 +4,10 @@ const Navbar = () =>{
     return ( <div className='main'>
         <div className='parent'>
   <div id='first'>
-<a href='#' id='mor'>LOGOBAKERY</a>
-<a href='#'>Service</a>
-<a href='#'>Project</a>
-<a href='#'>About</a>
+<a href='#4' id='mor'>LOGOBAKERY</a>
+<a href='#1'>Service</a>
+<a href='#2'>Project</a>
+<a href='#3'>About</a>
   </div>
 
   <div id='second'>
