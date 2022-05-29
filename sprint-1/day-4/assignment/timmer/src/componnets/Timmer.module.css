@@ -1,0 +1,26 @@
+.timer{
+    display:flex;
+    width:100%;
+    height:100vh;
+    /* background-color:skyblue; */
+    justify-content:center;
+}
+.container{
+    padding:100px;
+}
+.timer_container{
+    background-color:white;
+    width:145px;
+    padding:1rem 6rem;
+    border-radius:1rem;
+    box-shadow: 0 1rem 1rem -0.7rem black;
+}
+.restart{
+    background-color: rgb(136, 177, 213);
+    margin-right: 20px;
+}
+.stop{
+    background-color: rgb(116, 158, 194);
+    margin-right: 20px;
+    
+}
